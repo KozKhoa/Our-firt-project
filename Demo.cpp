@@ -1,4 +1,6 @@
 #include <iostream>
+#include <gdiplusgraphics.h>
+
 
 int main()
 {
